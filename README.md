@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Labib</h1>
-Hey there! I'm Atiqur Rahman Labib, a passionate web developer from the lively city of Barishal, Bangladesh. You can usually find me immersed in the world of coding, tinkering with HTML5, CSS3, JavaScript, and React to create captivating digital experiences.
+<h5>Hey there! I'm Atiqur Rahman Labib, a passionate web developer from the lively city of Barishal, Bangladesh. You can usually find me immersed in the world of coding, tinkering with HTML5, CSS3, JavaScript, and React to create captivating digital experiences.
 
 My journey in tech began on September 5, 2007, and ever since, I've been on a quest for knowledge and growth. Currently, I'm navigating through class 10 in 2024, all while diving deeper into the intricacies of web development.
 
 Being single frees up a lot of time for me to focus on my craft, and I find genuine joy in bringing ideas to life through coding. Barishal's vibrant atmosphere fuels my creativity, and I'm lucky to be surrounded by a supportive community as I pursue my dreams.
 
-Every line of code I write feels like a step closer to my goals, and I'm excited about the impact I can make in the digital realm. Here's to endless learning and endless possibilities!
+Every line of code I write feels like a step closer to my goals, and I'm excited about the impact I can make in the digital realm. Here's to endless learning and endless possibilities!</h5>
 - 📫 How to reach me **atiqurrahmanlabib@gmail.com**
 - ⚡ Fun fact **I am Funny**
 
