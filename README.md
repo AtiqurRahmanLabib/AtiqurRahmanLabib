@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Labib</h1>
 <h5>Hey there! I'm Atiqur Rahman Labib, a passionate web developer from the lively city of Barishal, Bangladesh. You can usually find me immersed in the world of coding, tinkering with HTML5, CSS3, JavaScript, and React to create captivating digital experiences.
 
+
 My journey in tech began on September 5, 2007, and ever since, I've been on a quest for knowledge and growth. Currently, I'm navigating through class 10 in 2024, all while diving deeper into the intricacies of web development.
 
 Being single frees up a lot of time for me to focus on my craft, and I find genuine joy in bringing ideas to life through coding. Barishal's vibrant atmosphere fuels my creativity, and I'm lucky to be surrounded by a supportive community as I pursue my dreams.
