@@ -77,7 +77,7 @@ I enjoy building responsive, user-friendly websites and turning ideas into funct
 
 ## 🚀 Featured Projects
 
-### 📚 Book Library
+### 📚 S-Class Pro
 
 A responsive book library web application built with HTML, CSS, and JavaScript.
 
